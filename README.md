@@ -19,7 +19,7 @@ Provide insights for landlords, tenants, and policymakers.
 
 Database: SQL (MySQL / PostgreSQL)
 
-Languages: SQL, Python (optional for scripts/ETL)
+Languages: SQL
 
 Tools: ERD diagrams, query optimization, data analysis
 
