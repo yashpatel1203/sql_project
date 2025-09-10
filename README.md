@@ -17,7 +17,7 @@ Provide insights for landlords, tenants, and policymakers.
 
 🛠️ Tech Stack
 
-Database: SQL (MySQL / PostgreSQL)
+Database: SQL (MySQL)
 
 Languages: SQL
 
