@@ -48,7 +48,7 @@ Reporting: Generate insights such as occupancy rates, overdue payments, and subs
 
 Clone the repository:
 
-git clone https://github.com/danger1020/sql_project.git
+git clone https://github.com/yashpatel1203/sql_project
 
 
 Navigate to the project folder:
